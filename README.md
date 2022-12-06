@@ -6,7 +6,10 @@ Micro-TV 桌面小电视
 * 尽量使用光固化打印！
 * 板子打印厚度尽量选择 1.2 mm 
 
-# 预览图
+# 预览
+## BiliBili
+https://www.bilibili.com/video/BV1k24y1C7uJ/?spm_id_from=333.880.top_right_bar_window_default_collection.content.click&vd_source=bd0fd9af4acd279e37a030d230ce9286
+
 ![image](https://user-images.githubusercontent.com/95032548/205837583-04643c0b-8129-4ebf-a73c-208782fd6aa3.png)
 
 # 鸣谢
