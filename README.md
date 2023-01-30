@@ -1,6 +1,8 @@
 # ⭐Micro-TV
 Micro-TV 桌面小电视
 
+
+
 # ❗️注意事项
 * 外壳久置会被氧化发黄，可以喷漆保护，按钮部分可以涂上丙烯颜料更加美观。
 * 尽量使用光固化打印！
@@ -20,3 +22,6 @@ https://www.bilibili.com/video/BV1k24y1C7uJ/?spm_id_from=333.880.top_right_bar_w
 # ✍️联系作者
 * 联系作者：qq517069986(Sunian) 
 * Micro tv交流讨论群：321155471 
+
+声明: 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
